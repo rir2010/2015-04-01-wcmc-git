@@ -1,5 +1,5 @@
-#Theis
-By: Ricardo
+#Thesis
+By: Ricardo T. Ramirez
 
 0k is really cold.
 It is the same temp as -273.15
